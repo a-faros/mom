@@ -1,0 +1,35 @@
+{
+    "objectModel": "jobs",
+    "data": [
+      {
+        "title": "Software Engineer",
+        "roles": [
+          {
+            "name": "Backend Developer",
+            "description": "Develop server-side logic"
+          },
+          {
+            "name": "Frontend Developer",
+            "description": "Develop client-side logic"
+          },
+          {
+            "name": "Scrum Master",
+            "description": "Facilitate Scrum processes"
+          }
+        ]
+      },
+      {
+        "title": "Project Manager",
+        "roles": [
+          {
+            "name": "Scrum Master",
+            "description": "Facilitate Scrum processes"
+          },
+          {
+            "name": "Product Owner",
+            "description": "Define product vision"
+          }
+        ]
+      }
+    ]
+  }
